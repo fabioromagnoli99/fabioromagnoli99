@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fabioromagnoli99/ca90754d6cc514273f2c92df1c684d16/raw/56878099156e412ecbb10f88a295a8f6f2562dd0/favatar.svg"/>
-<h1 align="left">Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px"> My name is Fabio Romagnoli</h1>
+<h2 align="left">Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px"> My name is Fabio Romagnoli</h2>
 
 - 🌍  I'm based in England.
 
