@@ -1,12 +1,14 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fabioromagnoli99/ca90754d6cc514273f2c92df1c684d16/raw/56878099156e412ecbb10f88a295a8f6f2562dd0/favatar.svg"/>
-<h1 align="left">Hi, 👋 I'm Fabio Romagnoli</h1>
+<h1 align="left">Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px"> My name is Fabio Romagnoli</h1>
+
+- 🌍  I'm based in England.
 
 - 🔥 Junior Web Developer & SAP ABAP Fiori / UI5. 
 
 - 🔭 I’m currently studying for SAP Certified Development <a href="https://training.sap.com/certification/c_fiordev_22-sap-certified-development-associate---sap-fiori-application-developer-g/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-C_FIORDEV_22-05122A?style=flat&logo=sap" alt="linkedin"/></a>
 
-- 💬 Fell free for ask me about **JavaScript, HTML, CSS, SAP ABAP Fiori**
+- 💬 Fell free for ask me about **JavaScript, HTML, CSS, SAP ABAP Fiori.**
 
 <br>
 
