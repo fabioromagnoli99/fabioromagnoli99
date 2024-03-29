@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fabioromagnoli99/ca90754d6cc514273f2c92df1c684d16/raw/56878099156e412ecbb10f88a295a8f6f2562dd0/favatar.svg"/>
-<h2 align="left">Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px"> My name is Fabio Romagnoli</h2>
+<h3 align="left" style="border: none;">Hi, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30px"> My name is Fabio Romagnoli</h3>
 
 - 🌍  I'm based in England.
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 ![SAP](https://img.shields.io/badge/-SAP-05122A?style=flat&logo=sap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,7 +27,7 @@
 
 <br>
 
-## Contact
+<h3> Contact </h3>
 
 <p>
 <a href="https://linkedin.com/in/fabio-romagnoli-b2667233/" target="_blank">
